@@ -81,7 +81,7 @@ Material:
     - _AlphaToMask: 0
     - _AlphaToMaskInspectorValue: 0
     - _BlendMode: 0
-    - _BumpMapScale: 1
+    - _BumpMapScale: 1.087
     - _CullMode: 0
     - _CullModeForward: 0
     - _Cutoff: 0.33
@@ -170,7 +170,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1.1486983, g: 1.1486983, b: 1.1486983, a: 1}
+    - _Color: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 1}
     - _DiffusionProfile_Asset: {r: -9.2396434e+33, g: 2.6337685e-36, b: 2.14897e-38, a: 6.8169325e-31}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
